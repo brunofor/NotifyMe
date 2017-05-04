@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\89eec720dc6fc7e4f4f49ba2e649789ebe6221d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c38cf37137f31735643238f2d88e4485b49f11f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\1231ca8111a74b145e5ec92c7f06e94b804fb864\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbafd24cf32767d692f38af990df1ece83a53c22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\1231ca8111a74b145e5ec92c7f06e94b804fb864\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_949fbb8499149d08af9d52ad48059cccb2c93c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7f5658daaedb07dccd0456ac594ff681e82e97d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\3c93a07d55039e7059009ec447b0c5b3444bbb40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb29f4a9ea2c7961f611c417d81c2c9db73ff963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e56b42c534857ae67f156ff31ca576711c2afb97">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2e8d0944c0c18e7721d520b3a238a17a52c35d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_4b167698e02c5c2fc6ab0c4abcb4ddd973836454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\89eec720dc6fc7e4f4f49ba2e649789ebe6221d7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1cdcdfac81efa110d41e230169e4b4a53f5b8880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\9226d44f049964083d5c73a85e1833d72eed7db2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bc25ec4eb49f70b02a5d2fd34983755c031e810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\008d390eaae91e9e50280a4860e929943a057f0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a793878fc653f7cb1435f94a86c918a1c80683e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\3eb6ad33a8b0c68574a0ba4072c984c02c6c4582\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_232d530892fe156a0d82af7359564108d1f5c5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\ffdd6a71ab50795e5ae41959838b932ada1ca36e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7ce7068d0596c77e3892f0283e8d6a8c72fbcaf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\a229c80532b55c36f4ec6cdb258b13e704356423\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be9abc69b845cebfb4419e8d8ba32cd3bb95b74e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\bae7c56e697ab6cfe9b8f19602a2538b1c7c222d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_669e74d1ddeaf4c245a942d0f9b3c5822577f95b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\e3f30033df36521c55ce8a294ebc86b296472ede\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb580f17cf31de7d5482a611838b0a4d6f6f6c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\9226d44f049964083d5c73a85e1833d72eed7db2\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_394a0db2ff68ddab5d699a2838b012edfcf97153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\ffdd6a71ab50795e5ae41959838b932ada1ca36e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae2e6e764132ac71e3b43bb9c3d848d06fa754ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\77069683423fdeeb975139fcd56a358d90d1a914\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a93b3a092e43c0b3e9c8445388ea0d357c612213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_64e5532739640820167eab2fc717009ebb60f2cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\9369fda5a2ed7eebd43223611940d8ed51d1bed2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ca603901e0a3753f4088ce38f53937e08f72510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bruno\.android\build-cache\bae7c56e697ab6cfe9b8f19602a2538b1c7c222d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Bruno\AndroidStudioProjects\HCI\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63490569a353e2f7c458c09b2693754d841ea655\classes.dex" />
+    </item>
+
+</items>
