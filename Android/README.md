@@ -12,10 +12,10 @@ The Android app is composed by five classes java:
 
     URL url = new URL("http://"+ipAddress+":"\\+portNumber+"/?typeNotify="+typeNotify+",\\payloadNotify="+payloadNotify+"]");
 
-    where ipAddress and port Number are the IP and PORT of server that runs on Arduino. The typeNotify is the type of notifications and the payloadNotify is a string that contains the sender of notification and the body of the message. 
+    where ipAddress and port Number are the IP and PORT of server that runs on Arduino. The typeNotify is the type of notifications and       the payloadNotify is a string that contains the sender of notification and the body of the message. 
     
     An example for the new SMS notifications:
     
     http://192.180.9.6:80/?typeNotify=2,payloadNotify=\\+393271234567@hi,+how+are+you?]
 
-All the spaces are replaced by the + because their use causes errors during the send phase. The symbol @ concatenates sender of notifications with the body of the message to make the request's payload; the symbol ] indicates the end of  URL string. 
+    All the spaces are replaced by the + because their use causes errors during the send phase. The symbol @ concatenates sender of           notifications with the body of the message to make the request's payload; the symbol ] indicates the end of  URL string. 
