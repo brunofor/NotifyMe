@@ -10,7 +10,7 @@ The Android app is composed by five classes java:
 
 5.	HttpRequestAsyncTask: it is the class that allows to communicate with the Arduino device through  HTTP messages of kind GET. It sends the information in the following way:
 
-URL url = new URL("http://"+ipAddress+":"\\+portNumber+"/?typeNotify="+typeNotify+",\\payloadNotify="+payloadNotify+"]");
+    URL url = new URL("http://"+ipAddress+":"\\+portNumber+"/?typeNotify="+typeNotify+",\\payloadNotify="+payloadNotify+"]");
 
     where ipAddress and port Number are the IP and PORT of server that runs on Arduino. The typeNotify is the type of notifications and the payloadNotify is a string that contains the sender of notification and the body of the message. 
     
