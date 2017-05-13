@@ -1,3 +1,5 @@
+# Application Android
+
 The Android app is composed by five classes java:
 
 1.	Mainactivity: it is the main class and built the layout of app as shown in the figure. Here are managed the IP and PORT of connection that the user inserts in order to communicate with the Arduino device. Clicking on the "Check connection" button the user can check if the device opened the receiving channel.
