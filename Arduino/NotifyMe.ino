@@ -144,8 +144,7 @@ void setup(){
   //To set the connection
   sendCommand("AT+RST\r\n", 2000, DEBUG); //to reset module
   sendCommand("AT+CWMODE=1\r\n", 1000, DEBUG); //to configure as access point
-  //sendCommand("AT+CWJAP=\"D-LINKHOMECELSO\",\"viacels0dieci+\"\r\n", 3000, DEBUG);//to configure the parameters
-  sendCommand("AT+CWJAP=\"iPhone di luca\",\"timori44\"\r\n", 3000, DEBUG); //to configure params
+  sendCommand("AT+CWJAP=\"network\",\"password\"\r\n", 3000, DEBUG); //to configure params
   delay(10000);
   String resultIP = sendCommand("AT+CIFSR\r\n", 1000, DEBUG); //to get ip address 
   String ip = "";
